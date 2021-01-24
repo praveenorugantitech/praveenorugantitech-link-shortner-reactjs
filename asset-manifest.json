@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-link-shortner-reactjs/static/css/main.68fc754a.chunk.css",
+    "main.js": "/praveenorugantitech-link-shortner-reactjs/static/js/main.9bafd906.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-link-shortner-reactjs/static/js/runtime-main.6dc253fe.js",
+    "static/js/2.c9c84160.chunk.js": "/praveenorugantitech-link-shortner-reactjs/static/js/2.c9c84160.chunk.js",
+    "static/js/3.9d953ded.chunk.js": "/praveenorugantitech-link-shortner-reactjs/static/js/3.9d953ded.chunk.js",
+    "index.html": "/praveenorugantitech-link-shortner-reactjs/index.html",
+    "static/js/2.c9c84160.chunk.js.LICENSE.txt": "/praveenorugantitech-link-shortner-reactjs/static/js/2.c9c84160.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dc253fe.js",
+    "static/js/2.c9c84160.chunk.js",
+    "static/css/main.68fc754a.chunk.css",
+    "static/js/main.9bafd906.chunk.js"
+  ]
+}
