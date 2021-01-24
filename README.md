@@ -4,6 +4,6 @@
  <img align="right" width="100%"  src="./src/images/screenshot.PNG" />
 </div>
 
-[Live Demo](https://praveenoruganti-link-shortner.firebaseapp.com/)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-link-shortner-reactjs/)
 
 
